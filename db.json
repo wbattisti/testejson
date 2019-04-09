@@ -1,4 +1,5 @@
-[{"name": "Mon","Visits": "2200","Orders": "3400"}, 
-{"name": "Tue","Visits": "1280","Orders": "2398"}, 
-{"name": "Wed","Visits": "5000","Orders": "4300"}, 
-{"name": "Sun","Visits": "4490","Orders": "4300"}]
+{"sellday": [ {"name": "Mon","Visits": "2200","Orders": "3400"}, 
+    {"name": "Tue","Visits": "1280","Orders": "2398"}, 
+    {"name": "Wed","Visits": "5000","Orders": "4300"}
+  ]
+}
